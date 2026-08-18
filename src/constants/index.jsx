@@ -13,7 +13,7 @@ export const features = [
     {
       id: "1",
       icon: "/images/feature-2.png",
-      caption: "Secure & trustworthy",
+      caption: "Secure & terrible for your wallet",
       title: "Sleep easy, we got your back",
       text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
       button: {
